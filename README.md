@@ -14,77 +14,74 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hola 👋, soy Gracia — Técnico de Seguridad Informática y Analista Programadora
 
-Como técnico de seguridad informática he trabajado con las principales herramientas utilizadas tanto en seguridad activa como pasiva. 
-Soy analista programadora especializada en Python y SAP R/3. Me apasiona construir soluciones que aporten valor al cliente y/o grupos de trabajo.
+# 👋 Hola, soy Analista Programadora & Técnico en Ciberseguridad
 
-**Estado actual:** Buscando oportunidades como Técnico de Seguridad Informática.
-**Contacto:** [(mailto:graciamp0305@gmail.com)] · [LinkedIn] · [Portfolio / GitHub Pages]
+Soy una profesional orientada al análisis, desarrollo de software y seguridad informática.
+Combino la lógica de la programación con las buenas prácticas de ciberseguridad para diseñar soluciones robustas, seguras y escalables.
+Como técnico de seguridad informática he trabajado con las principales herramientas utilizadas tanto en seguridad activa como pasiva. Y como analista programadora estoy especializada en Python y SAP R/3. Me apasiona construir soluciones que aporten valor al cliente y/o grupos de trabajo.
+---
+
+## 💻 Stack tecnológico
+
+**Lenguajes:** Python · Java · C++ · ABAP/4 · SQL
+**Sistemas:** Linux · Windows
+**Áreas de especialización:**
+
+* Análisis y desarrollo de aplicaciones
+* Administración y seguridad de sistemas
+* Auditoría técnica y gestión de vulnerabilidades
+* Optimización de código y rendimiento
+* Automatización de procesos
 
 ---
 
 ## 🚀 Proyectos destacados
 
-(En la entrevista abrelos en este orden — los que están pinneados en mi perfil)
+*(Ejemplos genéricos, puedes reemplazarlos por tus proyectos reales cuando los subas a GitHub)*
 
-1. **Proyecto A — Nombre** — *Breve 1 línea (qué hace).*
+1. **Proyecto A — Aplicación de análisis de datos**
 
-   * Tech: React · Node · MongoDB
-   * Demo: enlace a GitHub Pages / GIF
-   * Repo: `github.com/usuario/proyecto-a`
-   * Qué mostrar en la entrevista: la pantalla principal, el flujo de login y el componente `X` donde resolví [desafío técnico].
+   * Descripción: desarrollo de una herramienta para procesar y visualizar grandes volúmenes de datos.
+   * Tecnologías: Python · SQL · Linux
+   * Enlace: [Repositorio en GitHub](#)
 
-2. **Proyecto B — Nombre** — *Breve 1 línea.*
+2. **Proyecto B — Sistema de gestión de incidencias**
 
-   * Tech: Python · FastAPI · Docker
-   * Demo: enlace / captura
-   * Repo: `github.com/usuario/proyecto-b`
-   * Qué mostrar: arquitectura y `README.md` para ejecutar localmente.
+   * Descripción: aplicación web para el seguimiento de alertas y vulnerabilidades en sistemas corporativos.
+   * Tecnologías: Java · SQL · Linux
+   * Enlace: [Repositorio en GitHub](#)
 
-3. **Proyecto C — Mini proyecto / ejercicio** — *Breve.*
+3. **Proyecto C — Auditoría de red automatizada**
 
-   * Tech: HTML · CSS · JavaScript (o la tech que corresponda)
-   * Repo: `github.com/usuario/proyecto-c`
-   * Ideal para: demostrar HTML/CSS y despliegue en Pages.
+   * Descripción: script de análisis de seguridad para detección temprana de puertos y servicios expuestos.
+   * Tecnologías: Python · Bash
+   * Enlace: [Repositorio en GitHub](#)
 
 ---
 
-## 🛠️ Tecnologías
+## 🧠 Enfoque profesional
 
-**Lenguajes:** JavaScript, Python, [otros]
-**Frameworks / Tools:** React, Node.js, Express, Docker, Git, Jest
-**Otros:** REST, GitHub Actions (CI), SQL/NoSQL
-
----
-
-## 📂 Cómo navegar mi GitHub en la entrevista (guion rápido)
-
-1. Abrir mi perfil → ver pins (repos principales).
-2. Abrir `Proyecto A` → `README.md` → mostrar demo (GIF / Pages).
-3. Revisar el archivo `README` del proyecto para ver instrucciones de ejecución.
-4. Mostrar un fragmento de código relevante (ruta, componente o función) y explicar la solución en 2–3 minutos.
+Me interesa especialmente la intersección entre el **desarrollo de software y la ciberseguridad**, aplicando controles y revisiones técnicas desde el inicio del ciclo de vida del software.
+Aplico metodologías seguras de desarrollo (SSDLC), revisiones de código y prácticas de *hardening* en sistemas y redes.
 
 ---
 
-## ✅ Checklist (antes de la entrevista)
+## 📂 Cómo navegar mi GitHub
 
-* [ ] Repos pinneados: ✅
-* [ ] README de cada proyecto: ✅
-* [ ] GIFs / screenshots incluidos: ✅
-* [ ] LICENSE (MIT) añadido: ✅
-* [ ] Enlace a portfolio o GitHub Pages: ✅
+1. En los repositorios fijados (pinned) encontrarás proyectos de programación y seguridad.
+2. Cada proyecto incluye su propio `README.md` con descripción técnica, instalación y notas de seguridad.
+3. También mantengo ejemplos y utilidades orientadas a la automatización y el análisis de vulnerabilidades.
 
 ---
 
-## 📎 Enlaces rápidos
+## 📎 Enlaces profesionales
 
-* Portfolio / Pages: `https://usuario.github.io`
-* Curriculum (PDF): enlace en mi perfil / repo `cv`
-* Contacto: `tu.email@example.com`
+* [LinkedIn](#)
+* [Portfolio / GitHub Pages](#)
+  *(Sustituye los enlaces por tus URLs reales cuando estén listos)*
 
 ---
 
-Si quieres, lo personalizo con **tu nombre**, **tu stack** y **los proyectos reales** — pégame aquí los nombres de 2–3 repos que quieras destacar y adapto el README para ti.
-
-
+Gracias por visitar mi perfil.
+🚀 Estoy abierta a nuevos retos en desarrollo seguro, análisis de sistemas y ciberseguridad.
