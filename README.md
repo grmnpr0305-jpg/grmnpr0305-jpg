@@ -47,8 +47,8 @@ Aplico metodologías seguras de desarrollo (SSDLC), revisiones de código y prá
 
 ## 📎 Enlaces profesionales
 
-* [LinkedIn](#)
-* [Portfolio / GitHub Pages](#)
+* [LinkedIn]([www.linkedin.com/in/gracia-moncayo])
+* [Proyectos]([#])
 
 ---
 
