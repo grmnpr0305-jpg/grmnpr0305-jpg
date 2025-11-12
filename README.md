@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 # Analista Programadora & Técnico en Ciberseguridad
 
-Profesional orientada al análisis, desarrollo de software y seguridad informática.
-Combino la lógica de la programación con las buenas prácticas de ciberseguridad para diseñar soluciones robustas, seguras y escalables.
-Como técnico de seguridad informática he trabajado con las principales herramientas utilizadas tanto en seguridad activa como pasiva. Como analista programadora estoy especializada en Python y SAP R/3 en entornos backend. Me apasiona construir soluciones que aporten valor al cliente y/o grupos de trabajo.
+Profesional orientada a la seguridad informática con amplia experiencia en el análisis y desarrollo de software en backend.  
+Combino la lógica de la programación con las buenas prácticas de ciberseguridad para diseñar soluciones robustas, seguras y escalables.    
+He trabajado con las principales herramientas utilizadas en seguridad activa y pasiva. Además, me especializo en desarrollo backend con Python y SAP R/3.  
+Me apasiona construir soluciones que aporten valor al cliente y/o grupos de trabajo.
 ---
 
 ## 💻 Stack tecnológico
