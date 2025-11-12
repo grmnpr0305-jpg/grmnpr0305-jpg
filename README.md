@@ -24,15 +24,11 @@ Como técnico de seguridad informática he trabajado con las principales herrami
 
 ## 💻 Stack tecnológico
 
-**Lenguajes:** Python · Java · ABAP/4 · SQL
-
-**Sistemas:** Linux · Windows
-
-**Áreas de especialización:** Python · Machine Learning · SQL · Kali-linux
-
-**Herramientas:** Orange, IBM Watson Studio, MySql, Heidi, n8n, Power BI, GitHub
-
-**Seguridad:** Wireshark, Nmap, Metasploit, Tcpdump, Hashcat, John the Ripper, Nikto, Cain&Abel, Shodan, Recon-ng, Maltego, Kleopatra, ...
+**Lenguajes:** Python · Java · ABAP/4 · SQL  
+**Sistemas:** Linux · Windows  
+**Áreas de especialización:** Python · Machine Learning · SQL · Kali-linux  
+**Herramientas:** Orange, IBM Watson Studio, MySql, Heidi, n8n, Power BI, GitHub  
+**Seguridad:** Wireshark, Nmap, Metasploit, Tcpdump, Hashcat, John the Ripper, Nikto, Cain&Abel, Shodan, Recon-ng, Maltego, Kleopatra, ...  
 
 **Ámbitos de trabajo:**
 * Seguridad de aplicaciones y sistemas
