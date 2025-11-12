@@ -34,7 +34,7 @@ Me apasiona construir soluciones que aporten valor al cliente y/o grupos de trab
 **Ámbitos de trabajo:**
 * Seguridad de aplicaciones y sistemas
 * Auditoría técnica y gestión de vulnerabilidades
-* Criptografía y PKI
+* Criptografía, PKI y comunicaciones seguras
 * Análisis y desarrollo de aplicaciones
 * Optimización de código y rendimiento
 * Automatización de procesos
