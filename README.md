@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Gracia! 👋
 
 <!--
 **grmnpr0305-jpg/grmnpr0305-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,24 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hola soy Gracia, Analista Programadora & Técnico en Ciberseguridad
+# Analista Programadora & Técnico en Ciberseguridad
 
-Soy una profesional orientada al análisis, desarrollo de software y seguridad informática.
+Profesional orientada al análisis, desarrollo de software y seguridad informática.
 Combino la lógica de la programación con las buenas prácticas de ciberseguridad para diseñar soluciones robustas, seguras y escalables.
-Como técnico de seguridad informática he trabajado con las principales herramientas utilizadas tanto en seguridad activa como pasiva. Y como analista programadora estoy especializada en Python y SAP R/3 en entornos backend. Me apasiona construir soluciones que aporten valor al cliente y/o grupos de trabajo.
+Como técnico de seguridad informática he trabajado con las principales herramientas utilizadas tanto en seguridad activa como pasiva. Como analista programadora estoy especializada en Python y SAP R/3 en entornos backend. Me apasiona construir soluciones que aporten valor al cliente y/o grupos de trabajo.
 ---
 
 ## 💻 Stack tecnológico
 
-**Lenguajes:** Python · Java · C++ · ABAP/4 · SQL
+**Lenguajes:** Python · Java · ABAP/4 · SQL
 **Sistemas:** Linux · Windows
 **Áreas de especialización:** Python · Machine Learning · SQL · Kali-linux
-**Herramientas:** Orange, VSCode, MySql, Heidi, n8n, IBM Watson Studio, Power BI, GitHub
-**Seguridad:** Wireshark, Nmap, Metasploit, Tcpdump, Hashcat, John the Ripper, Kali-linux, Nikto, Cain&Abel, Shodan, Recon-ng, Maltego 
+**Herramientas:** Orange, IBM Watson Studio, MySql, Heidi, n8n, Power BI, GitHub 
+**Seguridad:** Wireshark, Nmap, Metasploit, Tcpdump, Hashcat, John the Ripper, Nikto, Cain&Abel, Shodan, Recon-ng, Maltego, Kleopatra, ... 
 
-* Análisis y desarrollo de aplicaciones
-* Administración y seguridad de sistemas
+* Seguridad de aplicaciones y sistemas
 * Auditoría técnica y gestión de vulnerabilidades
+* Criptografía y PKI
+* Análisis y desarrollo de aplicaciones
 * Optimización de código y rendimiento
 * Automatización de procesos
 
